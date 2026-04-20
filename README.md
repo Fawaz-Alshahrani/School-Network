@@ -9,14 +9,14 @@ Establishing a clear and functional link between the primary web server, classro
 Ensuring teachers can securely and reliably access the school's internet services.
 
 Facilitating seamless data exchange and collaboration through the integration of diverse networking components
-#Features
+# Features
 The network is designed with several advanced functional features:
 VoIP Integration: Implementation of Voice over IP services with dedicated line numbers (e.g., 12345, 54321, 67890) for modern telecommunications.
 VLAN Management: Use of Virtual LANs (Vlan 10 and Vlan 20) to segment and organize network traffic.
 Wired & Wireless Connectivity: Support for both fixed workstations and mobile devices via Access Points and wireless printers.
 Network Security: Robust device security including encrypted passwords, "enable secret" configurations, and Message of the Day (MOTD) banners.Connectivity 
 Verification: Successful end-to-end communication confirmed through detailed ping statistics and VoIP connectivity tests.
-Network Components
+# Network Components
 The topology is comprised of the following hardware and simulated elements:
 3 Routers
 Switches
