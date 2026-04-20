@@ -53,3 +53,12 @@ I took full responsibility for the end-to-end execution of this project. My work
 • VoIP Setup: Configuring the IP telephony system and assigning line numbers.
 
 • Testing & Documentation: Conducting all verification pings and troubleshooting to ensure 100% connectivity, as well as authoring the final project report.
+
+# Project Type
+
+Academic project (Computer Networks course)
+
+# Network Topology
+
+<img width="722" height="334" alt="image" src="https://github.com/user-attachments/assets/fa131973-d23d-40e9-809d-a4c9dc10c197" />
+
