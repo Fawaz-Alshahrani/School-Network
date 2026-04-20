@@ -21,7 +21,7 @@ The network is designed with several advanced functional features:
 
 • Wired & Wireless Connectivity: Support for both fixed workstations and mobile devices via Access Points and wireless printers.
 
-• Network Security: Robust device security including encrypted passwords, "enable secret" configurations, and Message of the Day (MOTD) banners.
+• Network Security: Robust device security including encrypted passwords, "enable secret" configurations, and Message of the Day banners.
 
 • Connectivity Verification: Successful end-to-end communication confirmed through detailed ping statistics and VoIP connectivity tests.
 
